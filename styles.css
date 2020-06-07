@@ -1,0 +1,177 @@
+.btn1 {
+  position: absolute;
+  bottom: 30px;
+  padding: 30px 210px;
+  right: 518px;
+  border-radius: 10%;
+  font-size: 20px;
+  background-color: purple;
+}
+
+.div1 {
+  text-align: center;
+  color: #fff;
+  padding-top: 4%;
+  padding-bottom: 400px;
+  background-image: url("png-wall.jpg");
+  background-size: 100%;
+}
+
+h1 {
+  line-height: 5rem;
+  font-family: Montserrat Alternates;
+  font-size: 50px;
+}
+
+#testimonials {
+  padding: 13% 20%;
+  text-align: center;
+  color: #fff;
+  background-image: url('png-wall2.jpg');
+}
+
+.im {
+  width: 25%;
+}
+
+.im1 {
+  width: 50%;
+}
+
+/* secpage */
+.bod {
+  background-color: pink;
+}
+
+.button5 {
+  position: absolute;
+  right: 56px;
+  top: 600px;
+}
+
+.button4 {
+  position: absolute;
+  left: 56px;
+  top: 600px;
+}
+
+.p1 {
+  width: 20%;
+  position: relative;
+  left: 350px;
+  top: 100px;
+  border-radius: 100%;
+}
+
+.pic2 {
+  width: 20%;
+  position: absolute;
+  right: 350px;
+  top: 100px;
+  border-radius: 100%;
+}
+
+.lab1 {
+  position: absolute;
+  left: 300px;
+  top: 447px;
+  font-family: Montserrat Alternates;
+  font-size: 160%;
+}
+
+.inp1 {
+  position: absolute;
+  left: 420px;
+  top: 442px;
+  width: 170px;
+}
+
+.lab2 {
+  position: absolute;
+  left: 837px;
+  top: 447px;
+  font-family: Montserrat Alternates;
+  font-size: 160%;
+}
+
+.in2 {
+  position: absolute;
+  left: 960px;
+  top: 446px;
+  top: 442px;
+  width: 170px;
+}
+
+.pic1 {
+  width: 12%;
+  position: absolute;
+  left: 780px;
+}
+
+#testimonials1 {
+  padding: 12% 20%;
+  text-align: center;
+  color: #fff;
+  background-image: url('png-wall2.jpg');
+}
+
+/* lstpg */
+
+.bod1{
+  background-image: url('png-wall3.png');
+  padding-bottom: 658px;
+}
+
+.j-tit{
+  font-family: 'Piedra', cursive;
+  position: absolute;
+  top: 200px;
+  left: 400px;
+  font-size: 65px;
+}
+
+.i2 {
+  position: absolute;
+  left: 960px;
+  top: 446px;
+  top: 442px;
+  width: 170px;
+}
+
+.i1 {
+  position: absolute;
+  left: 420px;
+  top: 442px;
+  width: 170px;
+}
+
+.j1{
+  position: absolute;
+  left: 770px;
+  top: 210px;
+  width: 250px;
+  padding: 2%;
+}
+
+.button-s{
+  position: absolute;
+  bottom: 25%;
+  left: 45%;
+
+}
+
+.grl-img{
+  position: absolute;
+  top: 100px;
+  right: 60px;
+  width: 300px;
+  border-radius: 25%;
+}
+
+.sec-img{
+  position: absolute;
+  top: 105px;
+  right: 70px;
+  width: 140px;
+  border-radius: 50%;
+}
